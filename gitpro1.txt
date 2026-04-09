@@ -1,2 +1,0 @@
-this is github project txt file initiating process through vs code
-
